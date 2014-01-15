@@ -1,0 +1,7 @@
+.new-bs li {
+	display: none;
+}
+
+.new-bs li.active {
+	display: block;
+}
